@@ -1,0 +1,35 @@
+{
+	"labTests": [{
+		"id": "1001",
+		"labIds": ["lab-1001", "lab-1002", "lab-1003", "lab-1004"],
+		"type": "ThyroidTest",
+		"name": "Thyroid Profile",
+		"freeText": "Thyroid Profile Test",
+		"tags": "Thyroid Profile Test",
+		"detailsPage": "/lab-tests/v1/1001/"
+	}, {
+		"id": "1002",
+		"labIds": ["lab-1001", "lab-1002", "lab-1003", "lab-1004"],
+		"type": "LipidTest",
+		"name": "Lipid Profile",
+		"freeText": "Thyroid Profile Test",
+		"tags": "Thyroid Profile Test",
+		"detailsPage": "/lab-tests/v1/1002/"
+	}, {
+		"id": "1003",
+		"labIds": ["lab-1001", "lab-1002", "lab-1003", "lab-1004"],
+		"type": "LiverTest",
+		"name": "Liver Function Test",
+		"freeText": "Thyroid Profile Test",
+		"tags": "Thyroid Profile Test",
+		"detailsPage": "/lab-tests/v1/1003/"
+	}, {
+		"id": "1004",
+		"labIds": ["lab-1001", "lab-1002", "lab-1003", "lab-1004"],
+		"type": "KidneyTest",
+		"name": "Kidney Function Test",
+		"freeText": "Thyroid Profile Test",
+		"tags": "Thyroid Profile Test",
+		"detailsPage": "/lab-tests/v1/1004/"
+	}]
+}

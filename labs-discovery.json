@@ -1,0 +1,75 @@
+{
+	"labs": [{
+		"labId": "lab-1001",
+		"name": "Apollo Diagnostic Center",
+		"group": "Apollo",
+		"addressLine1": "",
+		"addressLine2": "",
+		"locality": "Near ITPL bus stop",
+		"landmark": "Opposite ITPL",
+		"geoLocation": {
+			"latitude": "12.9125857",
+			"longitude": "77.5459301"
+		},
+		"postalCode": "560066",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"country": "India",
+		"labDetails": "/labs/v1/lab-1001",
+		"labTestsIds": ["1001", "1002", "1003", "1004"]
+	}, {
+		"labId": "lab-1002",
+		"name": "NH Diagnostic Center",
+		"group": "NH",
+		"addressLine1": "",
+		"addressLine2": "",
+		"locality": "Near Thubarahalli bus stop, ITPL-Varthur road",
+		"landmark": "Opposite 365 Fitness club",
+		"geoLocation": {
+			"latitude": "12.9125267",
+			"longitude": "77.5459205"
+		},
+		"postalCode": "560066",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"country": "India",
+		"labDetails": "/labs/v1/lab-1002",
+		"labTestsIds": ["1001", "1002", "1003", "1004"]
+	}, {
+		"labId": "lab-1003",
+		"name": "Manipal Diagnostic Center",
+		"group": "MH",
+		"addressLine1": "",
+		"addressLine2": "",
+		"locality": "Near Kundanahalli Colony, Main ITPL road",
+		"landmark": "Opposite Keerthi Flora Apartments",
+		"geoLocation": {
+			"latitude": "12.9125447",
+			"longitude": "77.5459125"
+		},
+		"postalCode": "560066",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"country": "India",
+		"labDetails": "/labs/v1/lab-1003",
+		"labTestsIds": ["1001", "1002", "1003", "1004", "1008", "1009"]
+	}, {
+		"labId": "lab-1004",
+		"name": "Rx Dx",
+		"group": "Telerad",
+		"addressLine1": "",
+		"addressLine2": "",
+		"locality": "Near Graphite India Ltd, Main ITPL road",
+		"landmark": "Besides RMZ Tech Park",
+		"geoLocation": {
+			"latitude": "12.9125667",
+			"longitude": "77.5459405"
+		},
+		"postalCode": "560066",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"country": "India",
+		"labDetails": "/labs/v1/lab-1004",
+		"labTestsIds": ["1001", "1002", "1003", "1004", "1007"]
+	}]
+}

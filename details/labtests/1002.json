@@ -1,0 +1,19 @@
+{
+	"labTestDetails": {
+		"id": "1002",
+		"type": "LipidTest",
+		"name": "Lipid Profile",
+		"freeText": "Thyroid Profile Test",
+		"tags": "Thyroid Profile Test",
+		"labIds": ["lab-1001", "lab-1002", "lab-1003", "lab-1004"],
+		"image": {
+			"imageUrl": "http://longislandlymedisease.com/wp-content/uploads/2014/12/Lyme-Disease-Lab-Testing-1024x667.jpg",
+			"altText": "Labizy Hero Banner"
+		},
+		"whyIsThisTest": "Some literature",
+		"whatDoesItMeasure": "Some literature",
+		"whatDoTheResultsMean": "Some literature",
+		"whatPrecautionsPreventionsToConsider": ["Eat Healthy", "Sleep well"],
+		"readInFeaturedBlog": "https://www.verywell.com/what-do-your-thyroid-blood-test-results-mean-3232917"
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"labDetails": {
+		"labId": "lab-1003",
+		"name": "Manipal Diagnostic Center",
+		"group": "MH",
+		"addressLine1": "",
+		"addressLine2": "",
+		"locality": "Near Kundanahalli Colony, Main ITPL road",
+		"landmark": "Opposite Keerthi Flora Apartments",
+		"geoLocation": {
+			"latitude": "12.9125447",
+			"longitude": "77.5459125"
+		},
+		"postalCode": "560066",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"country": "India",
+		"labTests": [{
+			"id": "1001",
+			"type": "ThyroidTest",
+			"name": "Thyroid Profile",
+			"freeText": "Thyroid Profile Test",
+			"tags": "Thyroid Profile Test",
+			"detailsPage": "/lab-tests/v1/1001",
+			"unitPrice": {
+				"unitPrice": "250",
+				"currencyDenomination": "INR",
+				"unitOfMeasurement": "PER TEST"
+			},
+			"promotion": {
+				"promoType": "PCT OFF",
+				"promoValue": "0"
+			}
+		}, {
+			"id": "1002",
+			"type": "LipidTest",
+			"name": "Lipid Profile",
+			"freeText": "Thyroid Profile Test",
+			"tags": "Thyroid Profile Test",
+			"detailsPage": "/lab-tests/v1/1002",
+			"unitPrice": {
+				"unitPrice": "720",
+				"currencyDenomination": "INR",
+				"unitOfMeasurement": "PER TEST"
+			},
+			"promotion": {
+				"promoType": "PCT OFF",
+				"promoValue": "0"
+			}
+		}, {
+			"id": "1003",
+			"type": "LiverTest",
+			"name": "Liver Function Test",
+			"freeText": "Thyroid Profile Test",
+			"tags": "Thyroid Profile Test",
+			"detailsPage": "/lab-tests/v1/1003",
+			"unitPrice": {
+				"unitPrice": "1250",
+				"currencyDenomination": "INR",
+				"unitOfMeasurement": "PER TEST"
+			},
+			"promotion": {
+				"promoType": "PCT OFF",
+				"promoValue": "5"
+			}
+		}, {
+			"id": "1004",
+			"type": "KidneyTest",
+			"name": "Kidney Function Test",
+			"freeText": "Thyroid Profile Test",
+			"tags": "Thyroid Profile Test",
+			"detailsPage": "/lab-tests/v1/1004",
+			"unitPrice": {
+				"unitPrice": "200",
+				"currencyDenomination": "INR",
+				"unitOfMeasurement": "PER TEST"
+			},
+			"promotion": {
+				"promoType": "PCT OFF",
+				"promoValue": "0"
+			}
+		}]
+	}
+}
